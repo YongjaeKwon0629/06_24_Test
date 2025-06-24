@@ -29,6 +29,8 @@
    나만의 고유한 이름을 지어요 (다른 사람이 쓰고 있으면 불가)
    - 예시: jetsunmom, sungsookjang66 등
    - 영어, 숫자, 하이픈(-) 가능 (띄어쓰기 ❌)
+     
+---
 
 ### ✅ Repository 만들기 순서
 
@@ -41,6 +43,8 @@
 6. **Create repository 버튼 클릭**
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
+
+---
 
 ## Markdown 문법
 
