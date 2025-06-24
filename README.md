@@ -211,3 +211,5 @@ ___
 ---
 
 ## 2. About Python3
+
+- [Python basic](./docs/python3.md)
