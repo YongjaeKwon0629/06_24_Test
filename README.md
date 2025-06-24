@@ -207,3 +207,7 @@ ___
 ![Colab_06_24_3](https://github.com/user-attachments/assets/05981dbb-0329-4e78-856f-ab14b5ad654b)
 
 ![Colab_06_24_4](https://github.com/user-attachments/assets/7dc8a851-b51b-41e4-9413-94aaba4f33f0)
+
+---
+
+## 2. About Python3
