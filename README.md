@@ -76,6 +76,9 @@ markdown
 
 이것은 새로운 문단입니다.
 ```
+
+---
+
 ### 3. 강조 (Bold / Italic / 취소선)
 ```markdown
 **굵게** 또는 __굵게__
@@ -83,6 +86,8 @@ markdown
 ~~취소선~~
 예시: 강조, 기울임, 삭제된 텍스트
 ```
+
+---
 
 ### 4. 목록 (Lists)
 - 순서 없는 목록
@@ -104,6 +109,8 @@ markdown
 3. 세 번째
 ```
 
+---
+
 ### 5. 링크와 이미지
 - 링크
 ```markdown
@@ -116,6 +123,8 @@ markdown
 ```
 💡 GitHub 내 이미지 경로: ./이미지폴더/파일명.png
 
+---
+
 ### 6. 코드 및 코드블록
 인라인 코드
 
@@ -127,6 +136,8 @@ markdown
 코드 블록 (언어 지정 가능)
 <pre> ```python def hello(): print("Hello Markdown") ``` </pre>
 
+---
+
 ### 7. 인용문 (Blockquote)
 
 ```markdown
@@ -135,6 +146,8 @@ markdown
 >> 중첩된 인용문도 가능합니다.
 ```
 
+---
+
 ### 8. 수평선 (구분선)
 
 ```markdown
@@ -142,6 +155,8 @@ markdown
 ***
 ___
 ```
+
+---
 
 ### 9. 체크리스트 (To-do list)
 
@@ -152,6 +167,7 @@ ___
 
 ![image](https://github.com/user-attachments/assets/a73e6196-3b06-4e6f-b6b4-287dfc83b521)
 
+---
 
 ### 10. 표 (Table)
 
@@ -173,6 +189,7 @@ ___
 
 - 직접 확인은 Markdown Live Preview 또는 GitHub에서 브랜치 푸시 후 확인 가능.
 
+---
 ## Colab 기초  
 (여기에 Colab 내용 작성)
 
