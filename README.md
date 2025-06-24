@@ -107,8 +107,6 @@ H1은 일반적으로 문서의 제목으로, README에서는 보통 프로젝�
 - 이미지
   
 ```markdown
-복사
-편집
 ![대체 텍스트](https://example.com/image.png)
 ```
 💡 GitHub 내 이미지 경로: ./이미지폴더/파일명.png
