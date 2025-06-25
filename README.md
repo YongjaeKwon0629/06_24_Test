@@ -1,6 +1,6 @@
 # 📘 AI 학습 정리
 
-## 1. ABout Github, Markdown, Colab
+## 1. About Github, Markdown, Colab
 - [GitHub 사용법](#github-사용법)
 - [Markdown 문법](#markdown-문법)  
 - [Colab 기초](#colab-기초)
