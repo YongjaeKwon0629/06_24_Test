@@ -2,7 +2,7 @@
 
 ## 1. About Github, Markdown, Colab
 - [GitHub 사용법](./github-사용법.md)
-- [Markdown 문법](./markdown-문법)  
+- [Markdown 문법](./markdown-문법.md)  
 - [Colab 기초](#colab-기초)
 
 ---
